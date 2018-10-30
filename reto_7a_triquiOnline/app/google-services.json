@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "877591972121",
+    "firebase_url": "https://triquionline-4591a.firebaseio.com",
+    "project_id": "triquionline-4591a",
+    "storage_bucket": "triquionline-4591a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:877591972121:android:4a33be62671453b3",
+        "android_client_info": {
+          "package_name": "com.movilesunal20182.baptiste.reto_7a_triquiOnline"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "877591972121-qfng02i73rl88dcd9ilqnnl01pa31gu4.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBdghjc52rhcjE_urwUmuPCPW3TvuYvVI4"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
